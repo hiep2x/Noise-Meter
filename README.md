@@ -1,8 +1,6 @@
-# Noise Meter
+# Support page for Noise Meter app
 
-### Support or Contact
-
-Having trouble with App?
+Having trouble with App? Please feel free to contact us:
 
 👀 Email: hiep3x@gmail.com
-🌱 Personal Facebook page: https://facebook.com/hiep2x
+🌱 Facebook page: https://facebook.com/hiep2x
